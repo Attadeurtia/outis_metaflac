@@ -3,7 +3,7 @@
 # Name:             cherche_metadonnée.sh
 # Author:           Geoffrey Posé
 # Creation:         29.07.2021
-# Description:      metre en minuscule les metadonnée flacs
+# Description:      mettre en minuscule les metadonnées flacs
 # Documentation:    https://github.com/Attadeurtia/outis_metaflac
 ######################################################
 IFS=$'\n'
